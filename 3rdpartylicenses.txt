@@ -862,9 +862,6 @@ ISC
 ngx-ntk-pannellum
 MIT
 
-ngx-ntk-query-builder
-ISC
-
 ngx-ntk-smart-module
 ISC
 
