@@ -584,7 +584,7 @@ THE SOFTWARE.
 MIT
 
 @ngx-translate/http-loader
-MIT
+SEE LICENSE IN LICENSE
 
 @popperjs/core
 MIT
