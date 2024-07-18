@@ -30,7 +30,7 @@ MIT
 MIT
 The MIT License
 
-Copyright (c) 2023 Google LLC.
+Copyright (c) 2024 Google LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,7 +64,7 @@ MIT
 MIT
 The MIT License
 
-Copyright (c) 2023 Google LLC.
+Copyright (c) 2024 Google LLC.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -98,7 +98,7 @@ MIT
 MIT
 The MIT License (MIT)
 
-Copyright (c) 2007-2022 Asymmetrik Ltd, a BlueHalo Company
+Copyright (c) 2007-2024 BlueHalo, LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -581,7 +581,7 @@ THE SOFTWARE.
 
 
 @ngx-translate/core
-MIT
+SEE LICENSE IN LICENSE
 
 @ngx-translate/http-loader
 SEE LICENSE IN LICENSE
@@ -1093,7 +1093,7 @@ zone.js
 MIT
 The MIT License
 
-Copyright (c) 2010-2022 Google LLC. https://angular.io/license
+Copyright (c) 2010-2024 Google LLC. https://angular.io/license
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
