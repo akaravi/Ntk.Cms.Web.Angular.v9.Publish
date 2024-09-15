@@ -1,1 +1,0 @@
-import{c as a}from"./chunk-LIYWK4BD.js";import"./chunk-KG3V3JXM.js";import"./chunk-USWXO7E7.js";import"./chunk-YCURMKBX.js";import"./chunk-X24YCP6S.js";import"./chunk-35KSY5KE.js";import"./chunk-J3PFYCHG.js";import"./chunk-V5IC3HAZ.js";import"./chunk-DDZQY3NP.js";export{a as CoreUserGroupCmsModule};
